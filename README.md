@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Osama...
+- 👋 Hi, I’m Osama
 - 👀 I’m interested in creating useful applications for web, mobile, and desktop
 - 🌱 I’m currently learning the technologies I need to do that
 - 💞️ I’m looking to collaborate on interesting projects that can make life better for everyone
